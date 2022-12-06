@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="picture_text_size">15sp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_margin">20dp</dimen>
+    <dimen name="land_layout_width">0dp</dimen>
+    <dimen name="imageview_size">50dp</dimen>
+    <dimen name="imageview_margin">10dp</dimen>
+    <dimen name="imageview_padding">5dp</dimen>
+    <dimen name="detail_text_size">30sp</dimen>
+    <dimen name="detail_text_margin">10dp</dimen>
+    <dimen name="l_layout_padding">10dp</dimen>
+    <dimen name="list_linearlayout_margin">5dp</dimen>
+    <dimen name="list_linearlayout_padding">1dp</dimen>
+</resources>

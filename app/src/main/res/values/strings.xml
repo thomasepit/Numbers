@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Numbers</string>
+    <string name="number">Number</string>
+    <string name="number_picture">Number picture</string>
+</resources>
